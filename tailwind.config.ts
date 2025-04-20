@@ -11,6 +11,7 @@ export default {
         sm: "calc(var(--radius) - 4px)",
       },
       colors: {
+        // Base UI colors
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
@@ -44,6 +45,27 @@ export default {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
+        
+        // HALONK custom theme colors based on the logo
+        halonk: {
+          gold: "#F0C14B", // Main gold from logo
+          dark: "#1E1E1E", // Dark border from logo
+          light: "#FFF6DD", // Light cream for backgrounds
+        },
+        solana: {
+          purple: "#9945FF",
+          green: "#14F195",
+        },
+        // Semantic colors for the site
+        blessed: "#F0C14B", // Primary action color (matches the gold)
+        divine: "#FFF6DD", // Light background
+        heavenly: {
+          DEFAULT: "#F0C14B", // Default heavenly color
+          dark: "#1E1E1E",  // Dark text 
+          light: "#FFF6DD", // Light backgrounds
+        },
+        holy: "#14F195", // Accent green from Solana
+        angelic: "#FFFFFF", // Pure white
         chart: {
           "1": "hsl(var(--chart-1))",
           "2": "hsl(var(--chart-2))",

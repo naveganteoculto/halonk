@@ -1,5 +1,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
+import elonkLogo from "@assets/elonkmusk.png";
+import { SiSolana } from "react-icons/si";
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -9,15 +11,17 @@ export default function Header() {
   };
   
   return (
-    <header className="sticky top-0 z-50 backdrop-blur-md bg-heavenly-light/80 shadow-md dark:bg-gray-800/80 dark:text-white">
+    <header className="sticky top-0 z-50 backdrop-blur-md bg-halonk-light/90 shadow-md dark:bg-halonk-dark/90 dark:text-white">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <div className="flex items-center">
-          <div className="h-12 w-12 rounded-full bg-divine halo flex items-center justify-center text-2xl">
-            😇
-          </div>
+          <img src={elonkLogo} alt="HALONK Logo" className="h-12 w-12" />
           <div className="ml-3">
-            <h1 className="font-comic font-bold text-xl md:text-2xl text-heavenly-dark dark:text-heavenly">$HALONK</h1>
-            <p className="text-xs text-gray-600 dark:text-gray-300">AngelCoin Blessed by Elonk</p>
+            <h1 className="font-comic font-bold text-xl md:text-2xl text-halonk-dark dark:text-halonk-gold">$HALONK</h1>
+            <div className="flex items-center text-xs text-gray-600 dark:text-gray-300">
+              <span>Angel Memecoin on</span>
+              <SiSolana className="ml-1 text-solana-purple" />
+              <span className="ml-1 text-solana-green font-medium">Solana</span>
+            </div>
           </div>
         </div>
         
