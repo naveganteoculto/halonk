@@ -1,0 +1,144 @@
+Elonk AngelCoin - $HALONK Official Website
+
+💡 Goal / Purpose:
+Build a fun, super simple, and meme-driven website that captures the spirit of $HALONK — the angelic memecoin blessed by the divine vibes of Elonk.
+No logic, no utility, just chaotic fun and maximum hype. The only job of this site is to make people laugh and ape in.
+
+🌐 Target Audience:
+Crypto degens
+
+Shitcoin chasers
+
+Meme lords
+
+Twitter/X addicts
+
+Telegram lurkers
+
+People who think Elon is a prophet
+
+🛠️ Tech Stack & UI Libraries
+Frontend Framework: React + Vite
+
+Styling: TailwindCSS (lightweight + fast to build)
+
+Animations:
+
+Framer Motion for smooth micro-interactions
+
+Lottie for fun animated angels/halos
+
+Fonts:
+
+Comic Neue or similar for a fun, meme-y vibe
+
+Icons & Emojis:
+
+Heroicons, big emojis like 😇🚀🔥💎
+
+SVGs and WebP for meme illustrations
+
+🧱 Core Pages & Components
+1. 🌍 Landing Page (Home)
+Header
+
+$HALONK logo (angelic Elon with halo)
+
+Navigation: About | Tokenomics | How to Buy | Join Us
+
+Hero Section
+
+Big meme headline:
+
+“Elonk has ascended. So will your bags.”
+
+Animated angel Elon floating down (Framer Motion or Lottie)
+
+CTA Button:
+🚀 Buy $HALONK → links to DEX or CoinGecko (once live)
+
+Meme Wall
+
+Meme gallery or carousel
+
+Community can upload memes (no login)
+
+Top meme of the day shown big with 🔥🔥🔥 effects
+
+Tokenomics Section
+
+Tarot card style design
+
+Token distribution visualized like this:
+
+69% Liquidity
+
+15% Angel Devs
+
+10% Holy Community
+
+6.66% Burned in Hell 🔥
+
+Hover animations and emoji sparkle effects
+
+How to Buy Section
+
+Stupid-simple tutorial:
+
+Create a wallet (blessed by Elonk)
+
+Get ETH (sacrifice fiat)
+
+Ape $HALONK on [insert DEX]
+
+Pray for moon 🌕
+
+Final CTA
+
+Giant button:
+🙏 Join the Cult → links to Telegram
+
+Meme text like:
+“Only the chosen shall pump to the promised land.”
+
+2. 👼 About Page (Optional)
+Fake biblical story of Elonk creating $HALONK:
+
+“And on the seventh day, Elonk said: ‘Let there be moon.’”
+
+3. 📱 Mobile-First Design
+Website must look amazing on mobile
+
+Sticky bottom CTA
+
+Meme wall swipeable
+
+Fun scroll animations
+
+✨ Bonus Features / Easter Eggs
+Confetti of halos when you hover buttons
+
+Angel choir sound effect on load (toggle mute 🔇 available)
+
+Secret keyboard combo to unlock "Fallen Angel Mode" 😈
+
+Elon flying randomly on scroll
+
+“$HALONK Moon Counter” – live counter of how many wallets are blessed (fake number)
+
+✅ Success Metrics
+Avg time on site: +30s
+
+Meme shares on X/Twitter
+
+Telegram group growth
+
+Community engagement from memes
+
+🙌 Created By:
+CryptoNobler
+
+X/Twitter: @CryptoNobler
+
+Telegram: t.me/CryptoNobler
+
