@@ -104,7 +104,7 @@ export default function HowToBuy() {
               <h3 className="font-comic font-bold text-2xl text-halonk-dark dark:text-halonk-gold">$HALONK Contract Address</h3>
             </div>
             <div className="bg-white dark:bg-black/50 rounded-lg p-4 flex items-center justify-between shadow-md border border-halonk-gold/20">
-              <p className="font-mono text-sm truncate text-halonk-dark dark:text-halonk-gold/90">HAL0NK69solana...420BLESSED</p>
+              <p className="font-mono text-sm truncate text-halonk-dark dark:text-halonk-gold/90">BBX8tuXxSr8nVa52jcF464crt9q9hCrx6gk4GKnFysUw</p>
               <button 
                 className="text-halonk-dark hover:text-halonk-gold transition-colors dark:text-halonk-gold dark:hover:text-white"
                 aria-label="Copy contract address"
